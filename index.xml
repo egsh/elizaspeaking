@@ -6,7 +6,23 @@
     <description>Recent content on This Is Eliza Speaking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
+    <lastBuildDate>Sat, 18 Feb 2017 13:57:08 +1100</lastBuildDate>
     <atom:link href="http://elizaspeaking.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>http://elizaspeaking.com/post/hello-world/</link>
+      <pubDate>Sat, 18 Feb 2017 13:57:08 +1100</pubDate>
+      
+      <guid>http://elizaspeaking.com/post/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to my blog&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;This is a test&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

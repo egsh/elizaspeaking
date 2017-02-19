@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/index.xml</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on This Is Eliza Speaking</title>
+    <link>http://elizaspeaking.com/post/index.xml</link>
+    <description>Recent content in Posts on This Is Eliza Speaking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
     <lastBuildDate>Sat, 18 Feb 2017 13:57:08 +1100</lastBuildDate>
-    <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://elizaspeaking.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>hello world</title>
-      <link>http://example.org/post/hello-world/</link>
+      <title>Hello, World!</title>
+      <link>http://elizaspeaking.com/post/hello-world/</link>
       <pubDate>Sat, 18 Feb 2017 13:57:08 +1100</pubDate>
       
-      <guid>http://example.org/post/hello-world/</guid>
-      <description>
+      <guid>http://elizaspeaking.com/post/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to my blog&lt;/p&gt;
 
-&lt;h1 id=&#34;hello-world&#34;&gt;Hello world&lt;/h1&gt;
+&lt;!-- more --&gt;
 
-&lt;p&gt;Welcome to my blog&lt;/p&gt;
+&lt;p&gt;This is a test&lt;/p&gt;
 </description>
     </item>
     
