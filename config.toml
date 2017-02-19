@@ -15,10 +15,10 @@ googleAnalytics = ""
     site_description = "The awesome blog of Eliza Garton."
     location = "Wollongong, Australia"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "img/avatar.jpg"
+    header_background = "img/background_cropped.jpg"
     header_title = "This Is Eliza Speaking"
-    copyright = "Powered by [Hugo](http://gohugo.io)."
+    copyright = "Eliza Garton"
     custom_css = []
     custom_js  = []
 
