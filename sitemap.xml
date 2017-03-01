@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://elizaspeaking.com/post/hello-world/</loc>
-    <lastmod>2017-02-18T13:57:08+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://elizaspeaking.com/post/</loc>
-    <lastmod>2017-02-18T13:57:08+11:00</lastmod>
-    <priority>0</priority>
+    <loc>http://elizaspeaking.com/post/the-start/</loc>
+    <lastmod>2017-03-01T23:08:00+11:00</lastmod>
   </url>
   
   <url>
     <loc>http://elizaspeaking.com/</loc>
-    <lastmod>2017-02-18T13:57:08+11:00</lastmod>
+    <lastmod>2017-03-01T23:08:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://elizaspeaking.com/post/</loc>
+    <lastmod>2017-03-01T23:08:00+11:00</lastmod>
     <priority>0</priority>
   </url>
   
