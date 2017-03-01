@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "This Is Eliza Speaking"
+title = "Hello, it's Eliza speaking"
 baseurl = "http://elizaspeaking.com/"
 theme = "hugo-minimalist-theme"
 
@@ -17,24 +17,21 @@ googleAnalytics = ""
     # Link custom assets relative to /static
     avatar = "img/avatar.jpg"
     header_background = "img/background_cropped.jpg"
-    header_title = "This Is Eliza Speaking"
+    header_title = "Hello, it's Eliza speaking"
     copyright = "Eliza Garton"
     custom_css = []
     custom_js  = []
-
-    # Enable gogle analytics by entering your tracking code
-    google_analytics = ""
 
 [social]
     # Add your social network accounts to the profile section on the left
     # by entering your username. The links to your account will be
     # create automatically.
     twitter   = ""
-    facebook  = ""
+    facebook  = "eliza.garton.5"
     linkedin  = ""
     behance   = ""
     dribbble  = ""
-    instagram = ""
+    instagram = "elizaspeaking"
     github    = ""
     gplus     = ""
 
