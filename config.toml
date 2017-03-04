@@ -19,7 +19,7 @@ googleAnalytics = ""
     header_background = "img/background_cropped.jpg"
     header_title = "Hello, it's Eliza speaking"
     copyright = "Eliza Garton"
-    custom_css = []
+    custom_css = ["css/custom.css"]
     custom_js  = []
 
 [social]
