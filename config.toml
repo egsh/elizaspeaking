@@ -6,9 +6,9 @@ theme = "hugo-minimalist-theme"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
-# disqusShortname = "spf13"
+disqusShortname = "elizaspeaking"
 # Enable gogle analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-93022041-1"
 
 [params]
     site_author = "Eliza Garton"

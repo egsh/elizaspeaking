@@ -1,3 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+
 .content > .post > p > img {
-    box-shadow: 5px 5px 2px #c7d4e8;
+    box-shadow: 4px 4px 5px #333333;
+    display: block;
+    margin: 0 auto;
+    max-height: 350px;
+}
+
+.site-header > .transparent-layer > h2 {
+    font-family: 'Edwardian Script ITC', 'Dancing Script', cursive;
+    font-size: 5.5em;
+    line-height: 1;
+}
+
+@media (max-width: 719px) {
+    .content > .post > p {
+        text-align: justify;
+    }
+
+    .site-header > .transparent-layer > h2 {
+        font-size: 3em;
+        padding: 0 25px;
+    }
 }
