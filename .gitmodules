@@ -3,4 +3,4 @@
 	url = git@github.com:egsh/elizaspeaking
 [submodule "themes/hugo-minimalist-theme"]
 	path = themes/hugo-minimalist-theme
-	url = https://github.com/digitalcraftsman/hugo-minimalist-theme
+	url = git@github.com:egsh/hugo-minimalist-theme
