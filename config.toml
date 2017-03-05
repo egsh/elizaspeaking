@@ -12,7 +12,7 @@ googleAnalytics = "UA-93022041-1"
 
 [params]
     site_author = "Eliza Garton"
-    site_description = "The awesome blog of Eliza Garton."
+    site_description = "The awesome blog of Eliza Garton"
     location = "Wollongong, Australia"
     # Link custom assets relative to /static
     avatar = "img/avatar.jpg"

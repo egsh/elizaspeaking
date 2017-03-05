@@ -2,7 +2,8 @@
 date = "2017-03-01T23:08:00+11:00"
 title = "The start."
 tags = []
-
+description = "Hello world, it's Eliza speaking. Today I'm starting at the start."
+image = "http://i.imgur.com/WdfpGMA.jpg"
 +++
 
 Hello world, it's Eliza speaking. Today I'm starting at the start. It is the 1st of the month, my
