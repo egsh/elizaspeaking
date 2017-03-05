@@ -13,6 +13,11 @@
     line-height: 1;
 }
 
+.site-header > .transparent-layer > h2 > a {
+    cursor: pointer;
+    color: white;
+}
+
 @media (max-width: 719px) {
     .content > .post > p {
         text-align: justify;
