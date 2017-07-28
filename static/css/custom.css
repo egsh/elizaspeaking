@@ -18,6 +18,10 @@
     color: white;
 }
 
+.author > .profile-image {
+    width: 320px;
+}
+
 @media (max-width: 719px) {
     .content > .post > p {
         text-align: justify;
