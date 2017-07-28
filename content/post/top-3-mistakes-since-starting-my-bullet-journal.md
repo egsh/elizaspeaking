@@ -37,8 +37,6 @@ The mistake I made was not in choosing something to do but in setting the goal i
 
 1. Not utilising the original bullet journaling system and to get overwhelmed by what everyone else says you should do
 
-1.
-
 I encourage aspiring bullet journallers to deeply consider what it that they want from their bullet journal. Is it total functionality that you seek? Is it functionality with a hint of creative flare? Or is it a place to plan out your life amidst a creative arts book? There are horses for courses and you just need to consider what it is that you need for yourself and not feel pressured by the glamour that the internet puts forward to not have the most beautiful journal the world has ever seen.
 
 Although I called them mistakes, perhaps I should put them down to learning curbs because I am at peace with what I've done but know that I need to alter it going forward.
