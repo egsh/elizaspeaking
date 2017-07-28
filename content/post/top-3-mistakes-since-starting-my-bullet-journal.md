@@ -5,6 +5,8 @@ tags = []
 title = "Top 3 Mistakes Since Starting My Bullet Journal"
 
 +++
+
+
 Great things can't be rushed, some wise people once said. So here's to my second ever blog post! Hopefully I've started my blog train chugging and it can gain some momentum from here. I've not only neglected my blog, but also my bullet journal of late because I got a bit overwhelmed with uni exams and other stuff going on.
 
 I adore my little notebook because it has become my first 'bullet journal'. It's a cute little Paper Blanks notebook that Simon bought for me. I'd like to think that he knows me super well (and that it wasn't a fluke) because the design is colourful, has flowers AND it's shiny!
@@ -27,14 +29,18 @@ The people who habitually create daily spreads are especially impressive because
 
 I would get into a funk by looking at the growing number of tasks getting migrated each day and I would eventually just cross them off and feel that I had let myself down day after day. Setting yourself up for failure is unkind and unwise. Now, wise Eliza doesn't plan anymore than three tasks per day and she feels accomplished when they tasks are regularly achieved.
 
-2. Losing sight of my goals
+1. Losing sight of my goals
 
-Setting goals is a really great thing to do. So long as you're committed and enthusiastic. There is so much inspiration on the internet for goals to track and layouts to track them on. At the start of the year, I took inspiration from the internet and set myself a number of goals like losing weight and reading books, none of which I am currently on track for. The notion of goal setting was really appealing to me because I hadn't set any for such a long time. The mistake I made was not in choosing something to do but in setting the goal itself. For example, choosing to read more books is a good thing. But for the not-so-keen reader that I am, setting the goal of reading four books in a year was way to ambitious for a first try.
+Setting goals is a really great thing to do. So long as you're committed and enthusiastic. There is so much inspiration on the internet for goals to track and layouts to track them on. At the start of the year, I took inspiration from the internet and set myself a number of goals like losing weight and reading books, none of which I am currently on track for. The notion of goal setting was really appealing to me because I hadn't set any for such a long time.
 
-3. Not utilising the original bullet journaling system and to get overwhelmed by what everyone else says you should do
+The mistake I made was not in choosing something to do but in setting the goal itself. For example, choosing to read more books is a good thing. But for the not-so-keen reader that I am, setting the goal of reading four books in a year has proven too ambitious for a first try.
+
+1. Not utilising the original bullet journaling system and to get overwhelmed by what everyone else says you should do
 
 1.
 
 I encourage aspiring bullet journallers to deeply consider what it that they want from their bullet journal. Is it total functionality that you seek? Is it functionality with a hint of creative flare? Or is it a place to plan out your life amidst a creative arts book? There are horses for courses and you just need to consider what it is that you need for yourself and not feel pressured by the glamour that the internet puts forward to not have the most beautiful journal the world has ever seen.
+
+Although I called them mistakes, perhaps I should put them down to learning curbs because I am at peace with what I've done but know that I need to alter it going forward.
 
 In my next post, I'll show you how I'm starting to tone back layouts to be simpler to establish and update but still with that hint of creative flare.
