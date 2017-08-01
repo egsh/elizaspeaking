@@ -21,7 +21,9 @@ Through July, I took stock of what I was doing, how it was moving forward, and w
 
 pic: Feb spread
 
-It all began to fall out of perspective when I was getting behind in the weekly spreads (how can you plan for the future if you haven't a spread to plan it in?!) and the time I was sinking into the layouts was time I'd be taking from other priority tasks (like uni work!).
+It all began to fall out of perspective when I was getting behind in the weekly spreads (how can you plan for the future if you haven't a spread to plan it in?!) and the time I was sinking into the layouts was time I'd be taking from other priority tasks (like uni work!). The picture below is yet another time consuming and busy layout example.
+
+pic: March Week 3
 
 None of this is what I actually wanted from my journal. Now that I have a clearer perspective of how I wish to continue my bullet journal, I realise that it should be a companion that is functional at keeping my life organised and simple to update, with a hint of creative flare. This is precisely where I intend to start off again in August.
 
