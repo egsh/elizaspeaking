@@ -9,9 +9,9 @@ title = "First Time Bullet Journaller in Distress"
 
 Great things can't be rushed, some wise people once said. So here's to my second ever blog post! Hopefully I've started my blog train chugging and it can gain some momentum from here. I've not only neglected my blog, but also my bullet journal of late because I got a bit overwhelmed with uni exams and other stuff going on.
 
-I adore my little notebook because it has become my first 'bullet journal'. You may have seen my bullet journal featured in my previous post or on my Instagram.  I'll do a blog post at some point in the near future about what exactly a bullet journal is and how it could change your life. Anyway, mine is a cute little Paper Blanks notebook that Simon bought for me. I'd like to think that he actually knows me well enough to have picked it on purpose (and that it wasn't a fluke) because the design is colourful, has flowers AND it's shiny!
+![](/uploads/2017/08/01/Blog%202_1-2.jpg)
 
-![](/uploads/2017/08/01/Blog%202_1-1.jpg)
+I adore my little notebook because it has become my first 'bullet journal'. You may have seen my bullet journal featured in my previous post or on my Instagram.  I'll do a blog post at some point in the near future about what exactly a bullet journal is and how it could change your life. Anyway, mine is a cute little Paper Blanks notebook that Simon bought for me. I'd like to think that he actually knows me well enough to have picked it on purpose (and that it wasn't a fluke) because the design is colourful, has flowers AND it's shiny! The specs are below in case you'd like to get one yourself.
 
 I've been bullet journalling for 7 months to the day and, boy, have I made some mistakes! I'm not talking about spelling errors or drawing a line out of place. I'm talking about mistakes with how I physically and practically use my bullet journal. The rollercoaster that was starting a bullet journal had left me as a 'first time bullet journaller in distress.' So I slowed my journalling right down and pretty much gave it a break through July; only doing the bare minimum to keep the year tracking on.
 
