@@ -11,7 +11,7 @@ Great things can't be rushed, some wise people once said. So here's to my second
 
 I adore my little notebook because it has become my first 'bullet journal'. You may have seen my bullet journal featured in my previous post or on my Instagram.  I'll do a blog post at some point in the near future about what exactly a bullet journal is and how it could change your life. Anyway, mine is a cute little Paper Blanks notebook that Simon bought for me. I'd like to think that he actually knows me well enough to have picked it on purpose (and that it wasn't a fluke) because the design is colourful, has flowers AND it's shiny!
 
-pic: notebook cover
+![](/uploads/2017/08/01/Blog%202_1.jpg)
 
 I've been bullet journalling for 7 months to the day and, boy, have I made some mistakes! I'm not talking about spelling errors or drawing a line out of place. I'm talking about mistakes with how I physically and practically use my bullet journal. The rollercoaster that was starting a bullet journal had left me as a 'first time bullet journaller in distress.' So I slowed my journalling right down and pretty much gave it a break through July; only doing the bare minimum to keep the year tracking on.
 
@@ -30,3 +30,4 @@ None of this is what I actually wanted from my journal. Now that I have a cleare
 pic: Session timetable
 
 Intrigued to start your own bullet journal? In my next blog post, I share the top 3 mistakes that I've made since starting my bullet journal. It's possibly a useful starting point for anyone considering bullet journalling. It may help you to gain some perspective of how to be practical and not get overwhelmed and sucked into the glamorous spreads and layouts on Pinterest. I've made some tough mistakes for you so you can take my reflections on board and begin your own journey to successful bullet journalling.
+
