@@ -7,7 +7,9 @@ title = "Top 3 Mistakes Since Starting My Bullet Journal"
 +++
 
 
-This reflection prompted me to share with aspiring bullet journallers some of the mistakes that I made and that they potentially face when getting sucked into the Pinterest jungle of awesomeness that is bullet journal spreads, doodles and stationary!
+So I've been bullet journalling for 7 months now and have been on a rollercoaster through learning about what on earth bullet journalling is, how I set one up and use it, and determining what works for me and what doesn't.
+
+I took a break from full-blown journalling through July because I was on uni break. I took the time to reflect on how I had been tracking so far and how I could adjust my current journalling ways to a more practical approach that is sustainable going forward. This reflection prompted me to share with aspiring bullet journallers some of the mistakes that I made and that they potentially face when getting sucked into the Pinterest jungle of awesomeness that is bullet journal spreads, doodles and stationary!
 
 Top 3 Mistakes Since Starting My Bullet Journal
 
@@ -24,6 +26,7 @@ Setting goals is a really great thing to do, so long as you're committed and ent
 The mistake I made was not in choosing something to do but in setting the goal itself. One of my chosen goals was to finish reading four books in this year. While reading is wonderful, I lost sight of my reading goal by not taking into account all the readings I would be doing for university. I now realise that finishing four non-uni-related books is very ambitious for the not-so-keen reader that I am.
 
 1. Not utilising the original bullet journal system and to get overwhelmed by what everyone else says you should do
+
 1.
 
 I encourage aspiring bullet journallers to deeply consider what it that they want from their bullet journal. Is it total functionality that you seek? Is it functionality with a hint of creative flare? Or is it a place to plan out your life amidst a creative arts book? There are horses for courses and you just need to consider what it is that you need for yourself and not feel pressured by the glamour that the internet puts forward to not have the most beautiful journal the world has ever seen.
