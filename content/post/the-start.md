@@ -1,11 +1,11 @@
 +++
 date = "2017-03-01T23:08:00+11:00"
-title = "The start."
-tags = []
 description = "Hello world, it's Eliza speaking. Today I'm starting at the start."
 image = "http://i.imgur.com/WdfpGMA.jpg"
-+++
+tags = []
+title = "The start."
 
++++
 Hello world, it's Eliza speaking. Today I'm starting at the start. It is the 1st of the month, my
 first week of university for the year, and this is my first ever blog post! If you've found yourself
 here reading, thank you so much for taking the time! I hope that my blog brings you great joy, relief,

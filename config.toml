@@ -1,38 +1,27 @@
-languageCode = "en-us"
-title = "Hello, it's Eliza speaking"
 baseurl = "http://elizaspeaking.com/"
-theme = "hugo-minimalist-theme"
-
-# Define how many pages appear per site
-paginate = 10
-# Enable comments powered by Disqus by entering your disqus shortname
 disqusShortname = "elizaspeaking"
-# Enable gogle analytics by entering your tracking code
 googleAnalytics = "UA-93022041-1"
-
+languageCode = "en-us"
+paginate = 10
+theme = "hugo-minimalist-theme"
+title = "Hello, it's Eliza speaking"
 [params]
-    site_author = "Eliza Garton"
-    site_description = "The awesome blog of Eliza Garton"
-    location = "Wollongong, Australia"
-    # Link custom assets relative to /static
-    avatar = "img/avatar.jpg"
-    header_background = "img/background_cropped.jpg"
-    header_title = "Hello, it's Eliza speaking"
-    copyright = "Eliza Garton"
-    custom_css = ["css/custom.css"]
-    custom_js  = []
-
+avatar = "img/avatar.jpg"
+copyright = "Eliza Garton"
+custom_css = ["css/custom.css"]
+custom_js = []
+header_background = "img/background_cropped.jpg"
+header_title = "Hello, it's Eliza speaking"
+location = "Wollongong, Australia"
+site_author = "Eliza Garton"
+site_description = "The awesome blog of Eliza Garton"
 [social]
-    # Add your social network accounts to the profile section on the left
-    # by entering your username. The links to your account will be
-    # create automatically.
-    twitter   = "eliza_speaking"
-    facebook  = "eliza.garton.5"
-    linkedin  = ""
-    behance   = ""
-    dribbble  = ""
-    instagram = "elizaspeaking"
-    github    = ""
-    gplus     = ""
-    pinterest = "elizaspeaking"
-
+behance = ""
+dribbble = ""
+facebook = "eliza.garton.5"
+github = ""
+gplus = ""
+instagram = "elizaspeaking"
+linkedin = ""
+pinterest = "elizaspeaking"
+twitter = "eliza_speaking"

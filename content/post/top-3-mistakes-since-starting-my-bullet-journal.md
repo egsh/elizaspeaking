@@ -1,12 +1,10 @@
 +++
-date = "2017-07-28T17:12:57+00:00"
+date = "2017-07-28T17:12:57Z"
 draft = true
 tags = []
 title = "Top 3 Mistakes Since Starting My Bullet Journal"
 
 +++
-
-
 So I've been bullet journalling for 7 months now and have been on a rollercoaster through learning about what on earth bullet journalling is, how I set one up and use it, and determining what works for me and what doesn't.
 
 I took a break from full-blown journalling through July because I was on uni break. I took the time to reflect on how I had been tracking so far and how I could adjust my current journalling ways to a more practical approach that is sustainable going forward. This reflection prompted me to share with aspiring bullet journallers some of the mistakes that I made and that they potentially face when getting sucked into the Pinterest jungle of awesomeness that is bullet journal spreads, doodles and stationary!

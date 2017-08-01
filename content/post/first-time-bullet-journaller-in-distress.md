@@ -1,11 +1,9 @@
 +++
-date = "2017-08-01T19:06:11+00:00"
+date = "2017-08-01T19:06:11Z"
 tags = []
 title = "First Time Bullet Journaller in Distress"
 
 +++
-
-
 Great things can't be rushed, some wise people once said. So here's to my second ever blog post! Hopefully I've started my blog train chugging and it can gain some momentum from here. I've not only neglected my blog, but also my bullet journal of late due to end of semester pressures, like uni exams and life going on.
 
 ![](/uploads/2017/08/01/Blog%202_1-2.jpg)
