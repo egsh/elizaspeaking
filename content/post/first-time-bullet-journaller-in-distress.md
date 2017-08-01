@@ -26,4 +26,3 @@ None of this is what I actually wanted from my journal. Now that I have a cleare
 ![](/uploads/2017/08/01/Blog%202_5-1.jpg)
 
 Intrigued to start your own bullet journal? In my next blog post, I share the top 3 mistakes that I've made since starting my bullet journal. It's possibly a useful starting point for anyone considering bullet journalling. It may help you to gain some perspective of how to be practical and not get overwhelmed and sucked into the glamorous spreads and layouts on Pinterest. I've made some tough mistakes for you so you can take my reflections on board and begin your own journey to successful bullet journalling.
-
