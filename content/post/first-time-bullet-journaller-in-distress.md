@@ -15,7 +15,9 @@ I adore my little notebook because it has become my first 'bullet journal'. You 
 
 I've been bullet journalling for 7 months to the day and, boy, have I made some mistakes! I'm not talking about spelling errors or drawing a line out of place. I'm talking about mistakes with how I physically and practically use my bullet journal. The rollercoaster that was starting a bullet journal had left me as a 'first time bullet journaller in distress.' So I slowed my journalling right down and pretty much gave it a break through July; only doing the bare minimum to keep the year tracking on.
 
-![](/uploads/2017/08/01/Blog%202_4.jpg)Through July, I took stock of what I was doing, how it was moving forward, and what I actually wanted to get out of my bullet journal. I realised that it had become a labour of love; a bit of a chore; a burden to keep updated. It became laborious as I tried to create colourful and complex yet practical designs throughout. But the love was there because I was enjoying the time I put into being creative on something that was purely mine. The picture below is surely creative and colourful but it's crazy busy and took me ages to establish. Just one example of what I was getting myself into without realising the time that I would lose through the creating and updating of it all.
+![](/uploads/2017/08/01/Blog%202_4.jpg)
+
+Through July, I took stock of what I was doing, how it was moving forward, and what I actually wanted to get out of my bullet journal. I realised that it had become a labour of love; a bit of a chore; a burden to keep updated. It became laborious as I tried to create colourful and complex yet practical designs throughout. But the love was there because I was enjoying the time I put into being creative on something that was purely mine. The picture below is surely creative and colourful but it's crazy busy and took me ages to establish. Just one example of what I was getting myself into without realising the time that I would lose through the creating and updating of it all.
 
 ![](/uploads/2017/08/01/Blog%202_3.jpg)
 
