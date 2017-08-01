@@ -23,8 +23,8 @@ pic: busy spread
 
 It all began to fall out of perspective when I was getting behind in the weekly spreads (how can you plan for the future if you haven't a spread to plan it in?!) and the time I was sinking into the layouts was time I'd be taking from other priority tasks (like uni work!).
 
-None of this is what I actually wanted from my journal. For me, it should be a companion that is functional at keeping my life organised and simple to update, with a hint of creative flare, which is precisely where I intend to start off journalling again in August.
+None of this is what I actually wanted from my journal. For me, it should be a companion that is functional at keeping my life organised and simple to update, with a hint of creative flare. Now that I have a clearer perspective of how I wish to continue my bullet journal, this is precisely where I intend to start off again in August.
 
-pic: ?
+pic: hello August?
 
 Intrigued to start your own bullet journal? In my next blog post, I share the top 3 mistakes that I've made since starting my bullet journal. It's possibly a useful starting point for anyone considering bullet journalling. It may help you to gain some perspective of how to be practical and not get overwhelmed and sucked right into the glamorous spreads and layouts on Pinterest. I've made the tough mistakes for you so you can take my reflections on board and begin your own journey to successful bullet journalling.
