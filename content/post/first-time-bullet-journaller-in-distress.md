@@ -11,7 +11,7 @@ Great things can't be rushed, some wise people once said. So here's to my second
 
 ![](/uploads/2017/08/01/Blog%202_1-2.jpg)
 
-I adore my little notebook because it has become my first 'bullet journal'. You may have seen my bullet journal featured in my [previous post ](http://elizaspeaking.com/post/the-start/)or on my Instagram.  I will do a blog post about what exactly a bullet journal is and how it could change your life. Anyway, mine is a cute little Paper Blanks notebook (no sponsorships here, only love) that Simon bought for me in 2016. I'd like to think that he actually knows me well enough to have picked it on purpose (and that it wasn't a fluke) because the design is colourful, has flowers AND it's shiny! I pondered over it for ages so as to give a great purpose, rather than diving in and wrecking it with nonsense. The specs are below in case you'd like to get one yourself.
+I adore my little notebook because it has become my first 'bullet journal'. You may have seen my bullet journal featured in my [previous post ](http://elizaspeaking.com/post/the-start/)or on [my Instagram](https://www.instagram.com/elizaspeaking/).  I will do a blog post about what exactly a bullet journal is and how it could change your life. Anyway, mine is a cute little 'paperblanks' notebook (no sponsorships here, only love) that Simon bought for me in 2016. I'd like to think that he actually knows me well enough to have picked it on purpose (and that it wasn't a fluke) because the design is colourful, has flowers AND it's shiny! I pondered over it for ages so as to give a great purpose, rather than diving in and wrecking it with nonsense. The specs are below in case you'd like to get one yourself.
 
 ![](/uploads/2017/08/01/Blog%202_2.jpg)
 
