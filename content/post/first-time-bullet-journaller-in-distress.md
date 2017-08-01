@@ -1,5 +1,5 @@
 +++
-date = "2017-07-28T19:06:11+00:00"
+date = "2017-08-01T19:06:11+00:00"
 tags = []
 title = "First Time Bullet Journaller in Distress"
 
