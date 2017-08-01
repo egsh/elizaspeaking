@@ -13,9 +13,9 @@ I adore my little notebook because it has become my first 'bullet journal'. You 
 
 I've been bullet journalling for 7 months to the day and, boy, have I made some mistakes! I'm not talking about spelling errors or drawing a line out of place. I'm talking about mistakes with how I physically and practically use my bullet journal. The rollercoaster that was starting a bullet journal had left me as a 'first time bullet journaller in distress.' So I slowed my journalling right down and pretty much gave it a break through July; only doing the bare minimum to keep the year tracking on.
 
-Through July, I took stock of what I was doing, how it was moving forward, and what I actually wanted to get out of my bullet journal. I realised that it had become a labour of love; a bit of a chore; a burden to keep updated. I realised that the past 7 months have actually been a labour of love over my journal. It became laborious as I tried to create colourful and complex yet practical designs throughout.
+Through July, I took stock of what I was doing, how it was moving forward, and what I actually wanted to get out of my bullet journal. I realised that it had become a labour of love; a bit of a chore; a burden to keep updated. It became laborious as I tried to create colourful and complex yet practical designs throughout. But the love was there because I was enjoying the time I put into being creative on something that was purely mine.
 
-But the love was there because I was enjoying the time I put into being creative on something that was purely mine. It all began to fall out of perspective when I was getting behind in the weekly spreads (how can you plan for the future if you haven't a spread to plan it in?!) and the time I was sinking into the layouts was time I'd be taking from other priority tasks (like uni work!).
+It all began to fall out of perspective when I was getting behind in the weekly spreads (how can you plan for the future if you haven't a spread to plan it in?!) and the time I was sinking into the layouts was time I'd be taking from other priority tasks (like uni work!).
 
 None of these things are what I actually wanted from my journal. For me, it should be a companion that is functional at keeping my life organised and simple to keep updated with a hint of creative flare.
 
