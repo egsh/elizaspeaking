@@ -27,11 +27,10 @@ The picture below is surely creative and colourful but it's crazy busy and took 
 
 ![](/uploads/2017/08/01/Blog%202_3.jpg)
 
-It all began to fall out of perspective when I was getting behind in the weekly spreads (how can you plan for the future if you haven't a spread to plan it in?!) and the time I was sinking into the layouts was time I'd be taking from other priority tasks (like uni work!). The picture below is yet another time consuming and busy layout example.
+It all began to fall out of perspective when I was getting behind in the weekly spreads (how can you plan for the future if you haven't a spread to plan it in?!) and the time I was sinking into the layouts was time I'd be stealing from other priority tasks (like uni work!).
 
-None of this is what I actually wanted from my journal. Now that I have a clearer perspective of how I wish to continue my bullet journal, I realise that it should be a companion that is functional at keeping my life organised and simple to update, with a hint of creative flare. This is precisely where I intend to start off again in August; simple and functional.
+None of this is what I actually wanted from my journal. Now that I have a clearer perspective of how I wish to continue my bullet journal, I realise that it should be a companion that is functional at keeping my life organised and simple to update, with a hint of creative flare (because I can't help myself). This is precisely where I intend to start off again in August; simple and functional.
 
 ![](/uploads/2017/08/01/Blog%202_5-1.jpg)
 
-Intrigued to start your own bullet journal? In my next blog post, I share the top 3 mistakes that I've made since starting my bullet journal. It's possibly a useful starting point for anyone considering bullet journalling. It may help you to gain some perspective of how to be practical and not get overwhelmed and sucked into the glamorous spreads and layouts on Pinterest. I've made some tough mistakes for you so you can take my reflections on board and begin your own journey to successful bullet journalling.
-
+Intrigued to start your own bullet journal? In my next blog post, I share the top 3 mistakes that I've made since starting my bullet journal. It's possibly a useful starting point for anyone considering bullet journalling. It may help you to gain some perspective of how to be practical and not get overwhelmed and sucked into the glamorous spreads and layouts on Pinterest. I've made some tough mistakes for you, so you can take my reflections on board and begin your own journey to successful bullet journalling.
