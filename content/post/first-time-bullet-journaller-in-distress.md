@@ -15,7 +15,7 @@ I adore my little notebook because it has become my first 'bullet journal'. You 
 
 ![](/uploads/2017/08/01/Blog%202_2.jpg)
 
-I happened upon the realm of bullet journalling whilst trawling Pinterest and immediately knew that this would be the purpose of my shiny little notebook. So I've been bullet journalling for 7 months to the day and, boy, have I made some mistakes! I'm not talking about spelling errors or drawing a line out of place. I'm talking about mistakes with how I physically and practically use my bullet journal.
+I happened upon the realm of bullet journalling whilst trawling Pinterest and immediately knew that this would be the purpose of my shiny little notebook in 2017. So I've been bullet journalling for 7 months to the day and, boy, have I made some mistakes! I'm not talking about spelling errors or drawing a line out of place. I'm talking about mistakes with how I physically and practically use my bullet journal.
 
 The rollercoaster that was starting a bullet journal had left me as a 'first time bullet journaller in distress.' In an attempt to ease the distress, I slowed my journalling right down and pretty much gave it a break through July; only doing the bare minimum to keep the year tracking on. Below is my simple monthly spread for July; one pen and a bit of washi tape. And that is basically what I lived by for the month.
 
@@ -30,6 +30,8 @@ The picture below is surely creative and colourful but it's crazy busy and took 
 It all began to fall out of perspective when I was getting behind in the weekly spreads (how can you plan for the future if you haven't a spread to plan it in?!) and the time I was sinking into the layouts was time I'd be stealing from other priority tasks (like uni work!).
 
 None of this is what I actually wanted from my journal. Now that I have a clearer perspective of how I wish to continue my bullet journal, I realise that it should be a companion that is functional at keeping my life organised and simple to update, with a hint of creative flare (because I can't help myself). This is precisely where I intend to start off again in August; simple and functional.
+
+That 'first time bullet journaller in distress' feeling has now subsided, thankfully before spring session at uni kicked off. I have been able to create a timetable for session two and start to plan out my simpler, more practical spreads for August.
 
 ![](/uploads/2017/08/01/Blog%202_5-1.jpg)
 
