@@ -1,0 +1,12 @@
+---
+pages:
+- post/how-my-goals-and-i-are-shaping-up-in-2017.md
+- post/first-time-bullet-journaller-in-distress.md
+- post/top-3-mistakes-since-starting-my-bullet-journal.md
+hide_body: false
+fields:
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
