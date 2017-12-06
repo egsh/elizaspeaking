@@ -1,6 +1,5 @@
 +++
 date = "2017-12-06T11:22:10+00:00"
-draft = true
 tags = ["bullet journal", "bujo", "paperblanks", "leuchtturm1917", "Ryder Carroll"]
 title = "So Much More Than Just A Blank Notebook"
 
@@ -19,14 +18,14 @@ I'm so excited to start a new bullet journal in a brand new notebook. A favourit
 
 If you're intrigued by what on earth a [bullet journal](http://bulletjournal.com/ "Bullet Journal") is or what they're for, here's a few tid-bits to whet your appetite.
 
-* [Ryder Carroll](http://www.rydercarroll.com/ "Ryder Carroll") invented the bullet journal system to help him focus in on what was important and be organised.
+* [Ryder Carroll](http://www.rydercarroll.com/ "Ryder Carroll") invented the bullet journal system to help him focus in on what was important and just be organised.
 * All you need to start your very own bullet journal is any old pen and any old notebook. In [this video](https://www.youtube.com/watch?v=fm15cmYU0IM "How to Bullet Journal"), Ryder tells you how.
 * Once you've got the basics, you can start logging on the next page or you can plan out the first few pages.
 
-I like to have a month or two planned out in advance by using sticky notes on the pages. Sticky notes are a great way to trial different page orders; you can even use them to plan different page layouts.
+I like to have a month or two planned out in advance by using sticky notes on the pages. Sticky notes are a great way to trial different page orders; you can even use them to plan different page layouts. I lost track of how many times I rearranged the sticky notes that you see here, so I cannot recommend this tip enough!
 
 ![](https://thumbs.gfycat.com/GlossyHarmlessDonkey-max-14mb.gif)
 
-Always keep your bullet journal simple when you start out (something which I most certainly did not do and, dang, it was hard). Now that I kind of have a clue about what I'm doing, I'm setting up my bullet journal beginning with December and carrying into 2018.
+Always keep your bullet journal simple when you start out (something which I most certainly did not do and, dang, it was hard). Now that I kind of have a clue about what I'm doing, I'm setting up my new bullet journal beginning with December and carrying into 2018.
 
 Got a pen and a little notebook? Why not start your own bullet journal today? Give it a go and see where it can take you.
