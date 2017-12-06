@@ -1,6 +1,5 @@
 +++
 date = "2017-12-06T11:22:10+00:00"
-draft = true
 tags = ["bullet journal", "bujo", "paperblanks", "leuchtturm1917", "Ryder Carroll"]
 title = "So Much More Than Just A Blank Notebook"
 
