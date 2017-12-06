@@ -11,7 +11,7 @@ My shiny little notebook has finally run out of pages. It will always hold a spe
 
 Entering into the world of bullet journaling has helped me to realise many things about myself and others, as well as keeping me on track with tasks and accomplishing goals. The curve to realising what I dislike about the ways that I do things and what I would like to aim for was steep. As was getting the hang of how to use the bullet journal system in a way that best suits my needs. I trialled MANY different spreads, layouts, colour schemes, collections, lists etc etc to really nut out what works best for me. Not all of them did work for me but they were all necessary parts of the process. I have to thank my lovely partner, Simon, for gifting me the notebook for my birthday last year. I hung onto it for months before deciding to use it as a bullet journal and it served me very well for 11 months.
 
-![](https://thumbs.gfycat.com/PointedImpassionedCaterpillar-size_restricted.gif)
+![](https://thumbs.gfycat.com/PointedImpassionedCaterpillar-max-14mb.gif)
 
 I'm so excited to start a new bullet journal in a brand new notebook. A favourite notebook of the bullet journal community is the Leuchtturm1917, which is what I'll be using this time around in the navy blue dotted A5 style. I'm looking forward to seeing what I can do with the extra page real estate. My aim is to keep my spreads and layouts simple yet functional with a bit of colour here and there.
 
@@ -25,7 +25,7 @@ If you're intrigued by what on earth a [bullet journal](http://bulletjournal.com
 
 I like to have a month or two planned out in advance by using sticky notes on the pages. Sticky notes are a great way to trial different page orders; you can even use them to plan different page layouts.
 
-<div style='position:relative;padding-bottom:54%'><iframe src='[https://gfycat.com/ifr/GlossyHarmlessDonkey](https://gfycat.com/ifr/GlossyHarmlessDonkey "https://gfycat.com/ifr/GlossyHarmlessDonkey")' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+![](https://thumbs.gfycat.com/GlossyHarmlessDonkey-max-14mb.gif)
 
 Always keep your bullet journal simple when you start out (something which I most certainly did not do and, dang, it was hard). Now that I kind of have a clue about what I'm doing, I'm setting up my bullet journal beginning with December and carrying into 2018.
 
