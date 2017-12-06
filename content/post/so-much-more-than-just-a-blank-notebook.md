@@ -1,7 +1,7 @@
 +++
 date = "2017-12-06T11:22:10+00:00"
 draft = true
-tags = ["bullet journal", "bujo", "paperblanks", "leuchtturm1917"]
+tags = ["bullet journal", "bujo", "paperblanks", "leuchtturm1917", "Ryder Carroll"]
 title = "So Much More Than Just A Blank Notebook"
 
 +++
@@ -17,10 +17,10 @@ I'm so excited to start a new bullet journal in a brand new notebook. A favourit
 
 ![](/uploads/2017/12/06/Blog 4_2.jpg)
 
-If you're intrigued by what on earth a bullet journal is or what they're for, here's a few tid-bits to whet your appetite.
+If you're intrigued by what on earth a [bullet journal](http://bulletjournal.com/ "Bullet Journal") is or what they're for, here's a few tid-bits to whet your appetite.
 
-* Ryder Carroll invented the bullet journal system to help him focus in on what was important and be organised.
-* All you need to start your very own bullet journal is any old pen and any old notebook. In this video, Ryder tells you how.
+* [Ryder Carroll](http://www.rydercarroll.com/ "Ryder Carroll") invented the bullet journal system to help him focus in on what was important and be organised.
+* All you need to start your very own bullet journal is any old pen and any old notebook. In [this video](https://www.youtube.com/watch?v=fm15cmYU0IM "How to Bullet Journal"), Ryder tells you how.
 * Once you've got the basics, you can start logging on the next page or you can plan out the first few pages.
 
 I like to have a month or two planned out in advance by using sticky notes on the pages. Sticky notes are a great way to trial different page orders; you can even use them to plan different page layouts.
